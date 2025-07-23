@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms and Conditions - Daily Manna Savings</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      line-height: 1.6;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    ol {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>TERMS AND CONDITIONS</h1>
+  <ol>
+    <li>There shall be no disbursement for any incomplete cards/payments.</li>
+    <li>There shall be no change or swap of items once the first payment has been made.</li>
+    <li>There shall be no cash conversion of any item under any circumstances.</li>
+    <li>Only fully completed cards/payments qualify for disbursement.</li>
+    <li>After disbursement, customers cannot request a change of items except when instructed by the company.</li>
+    <li>All cards/payments must be completed on or before disbursement.</li>
+    <li>Disbursement of items will commence and end when the company publishes.</li>
+    <li>All customers must make themselves readily available at the venue during the disbursement period.</li>
+    <li>By submitting this form, you agree to our terms and conditions.</li>
+    <li>For any change in government policy/market price, there will be a favorable review in all our packages in favor of both parties.</li>
+    <li>Every payment is non-refundable but would be used for the purpose for which it was paid.</li>
+    <li>Customer's card should be made available upon request for routine checks, audits, and disbursement.</li>
+    <li>Cards can only be marked with agent signature.</li>
+    <li>By making your first payment, you agree to our terms and conditions.</li>
+    <li>Prices quoted in the package list are daily payment breakdown to be paid 140 times.</li>
+  </ol>
+</body>
+</html>
